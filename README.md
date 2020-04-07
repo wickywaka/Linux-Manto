@@ -9,7 +9,7 @@ Linux Transaltion into Urdu
 
 Saadat Hasan Manto
 https://en.wikipedia.org/wiki/Saadat_Hasan_Manto
-![Saadat Hasan Manto]
+![Saadat Hasan Manto](/Saadat_Hasan_Manto_photograph.jpg)
 
 Name: Linux Manto (Manto Written in Urdu)
 Reason: Manto sounds simliar to ubuntu or ubuntu based distros
