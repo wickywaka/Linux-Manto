@@ -14,12 +14,9 @@ Saadat Hasan Manto
 https://en.wikipedia.org/wiki/Saadat_Hasan_Manto  
 ![Saadat Hasan Manto](/Saadat_Hasan_Manto_photograph.jpg)
 
-Name: Linux Manto (Manto Written in Urdu)
-Reason: Manto sounds simliar to ubuntu or ubuntu based distros
+**Name:** Linux Manto (Manto Written in Urdu)  
+**Reason:** Manto sounds simliar to ubuntu or ubuntu based distros
  <image> Logo <image>
-
-Code Name: Pyasa Kawa (Thirsty Crow) Based on 20.04 / Linux Manto 20.04
-I am starting working on this project out of neccisity so hence the name Thristy Crow
 
 Logo Name: Linux <urdu>Manto</urdu>
 
